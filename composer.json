@@ -1,9 +1,9 @@
 {
-    "name": "symfony-bundles/json-request-bundle",
+    "name": "axiscare/json-request-bundle",
     "type": "symfony-bundle",
     "description": "Symfony JsonRequest Bundle",
     "keywords": ["json", "symfony", "bundle", "angular"],
-    "homepage": "https://github.com/symfony-bundles/json-request-bundle",
+    "homepage": "https://github.com/axiscare/json-request-bundle",
     "license": "MIT",
     "authors": [
         {
